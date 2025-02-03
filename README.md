@@ -1,5 +1,7 @@
 # Genos
 
+Watch demo on [Youtube](https://www.youtube.com/watch?v=o1zjAa-1Zdg)
+
 This is a puzzle solving platformer game as our submission for the IEEE GameJam 2023.
 
 The theme was "Its not supposed to do that"
